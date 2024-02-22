@@ -4,4 +4,4 @@ require("neo-tree").setup({
 		position = "left",
 		width = 30,
 	},
-}) 
+})
