@@ -1,4 +1,5 @@
 require('hussainali.remap')
+require('hussainali.set')
 vim.cmd[[
   augroup DisableNetrwOnStartup
     autocmd!
